@@ -35,7 +35,7 @@ document.getElementById('btn3').addEventListener('click', async () => {
     document.execCommand('copy');
     document.body.removeChild(el);
   }
-  mostrarModal('Chave Pix copiada!');
+
 });
 
 // ================================
